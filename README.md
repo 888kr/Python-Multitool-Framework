@@ -156,15 +156,7 @@ def run():
 | **Curses errors** | Ensure terminal supports curses (try `TERM=xterm`) |  
 | **Module not loading** | Check folder name matches `config.yaml` |  
 | **Encryption fails** | Install `pycryptodome` (`pip install pycryptodome`) |  
----
+
 
 ## **📜 License**  
 MIT © 2025 888kr  
-
----
-
-### **🎉 Enjoy the tool? Star the repo!** ⭐  
-[![GitHub Stars](https://img.shields.io/github/stars/888kr/Python-Multitool-Framework?style=social)](https://github.com/888kr/Python-Multitool-Framework)  
-
----
-Would you like me to add anything else? 😊
