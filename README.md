@@ -12,7 +12,6 @@
 5. [Running the Tool](#-running-the-tool)  
 6. [Example Modules](#-example-modules)  
 7. [Troubleshooting](#-troubleshooting)  
-8. [Contributing](#-contributing)  
 
 ---
 
