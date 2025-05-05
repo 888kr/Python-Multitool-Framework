@@ -1,10 +1,4 @@
 columns:
-  - name: "Network Tools"
-    folder: "network_tools"
-    description: "Various network utilities"
-  - name: "File Operations"
-    folder: "file_ops"
-    description: "File management tools"
-  - name: "System Info"
-    folder: "system_info"
-    description: "System information tools"
+  - name: "Example"
+    folder: "example_folder_name"
+    description: "lorem ipsum category"
