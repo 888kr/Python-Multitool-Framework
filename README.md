@@ -1,6 +1,3 @@
-Here's a comprehensive **GitHub Wiki** documentation for your Python Multi-Tool Framework:
-
----
 
 # **Python Multi-Tool Framework**  
 *A customizable TUI (Terminal User Interface) framework for organizing and running Python scripts.*  
