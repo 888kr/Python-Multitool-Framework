@@ -34,7 +34,7 @@
 ### **Steps**  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/python-multitool.git
+   git clone https://github.com/888kr/Python-Multitool-Framework.git
    cd python-multitool
    ```
 
@@ -135,7 +135,7 @@ MODULE_NAME = "Encrypt File"
 MODULE_DESCRIPTION = "Securely encrypt files (AES-256-CBC)"
 
 def run():
-    # (See full code in repository)
+    # rest of code
 ```
 
 ### **2. Network Ping (`ping_tool.py`)**  
@@ -144,7 +144,7 @@ MODULE_NAME = "Ping Tool"
 MODULE_DESCRIPTION = "Check host connectivity"
 
 def run():
-    # (See full code in repository)
+    # rest of code
 ```
 
 ---
@@ -159,7 +159,7 @@ def run():
 ---
 
 ## **📜 License**  
-MIT © 2024 888kr  
+MIT © 2025 888kr  
 
 ---
 
