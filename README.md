@@ -35,7 +35,7 @@
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/888kr/Python-Multitool-Framework.git
-   cd python-multitool
+   cd Python-Multitool-Framework
    ```
 
 2. **Install dependencies**  
